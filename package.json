@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Luis Nicaretta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
